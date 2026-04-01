@@ -2,6 +2,12 @@
 
 A privacy-preserving system where hospitals train a collective model on sensitive radiologic and genomic data without sharing raw data. An agentic swarm orchestrates diagnosis by consulting specialized "Expert Agents."
 
+## 📚 Documentation
+
+- **[Complete Documentation](docs/COMPLETE_DOCUMENTATION.md)** - Comprehensive guide covering architecture, installation, configuration, and usage
+- **[API Reference](docs/API_REFERENCE.md)** - Detailed API endpoint documentation with examples
+- **[Developer Guide](docs/DEVELOPER_GUIDE.md)** - Development setup, testing, debugging, and contribution guidelines
+
 ## Architecture
 
 ```
